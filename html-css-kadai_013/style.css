@@ -65,12 +65,9 @@ PC用のスタイル
   }
 }
 
-
-
 /* スマホ向けの装飾設定 */
 body {
   min-width: 375px;
-  margin: 0;
 }
 
 #nav-pc {
